@@ -12,7 +12,7 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="30px"></span>&nbsp;
-<span><img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width="30px"></span>&nbsp;
 
 ### For Web Development, I use:
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
@@ -22,7 +22,7 @@
 ### Tools I use:
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://www.nicepng.com/png/detail/85-851058_anaconda-icon-anaconda-python-icon.png" width="30px"></span>&nbsp;
-<span><img src="https://developer.apple.com/news/images/og/xcode-og-twitter.png" width="30px"></span>&nbsp;
+<span><img src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png" width="30px"></span>&nbsp;
 
 
 ## 🏆 My GitHub Stats
