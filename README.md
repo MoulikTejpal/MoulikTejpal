@@ -26,6 +26,6 @@
 
 
 ## 🏆 My GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MoulikTejpal&count_private=true&theme=tokyonight&showicons=true)]()&nbsp;
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MoulikTejpal&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MoulikTejpal&count_private=true&theme=blue-green&showicons=true)]()&nbsp;
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MoulikTejpal&langs_count=5&theme=blue-green)]()
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MoulikTejpal&theme=blue-green)](https://git.io/streak-stats)
