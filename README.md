@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Moulik%20Tejpal-blue)](https://www.linkedin.com/in/mouliktejpal)
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Hubot+Sans&pause=500&color=0F95E8&center=true&vCenter=true&width=435&lines=Glad+to+meet+you!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hubot+Sans&weight=600&size=30&pause=500&color=0F95E8&center=true&width=435&lines=Glad+to+meet+you!">
 </h2>
 
 
