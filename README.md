@@ -2,6 +2,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Moulik%20Tejpal-blue)](https://www.linkedin.com/in/mouliktejpal)
 
+<h2 align="center">
+  <img src="[https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you!;Enjoy+my+work...&center=true&size=30](https://readme-typing-svg.herokuapp.com?font=Hubot+Sans&size=28&pause=1000&center=true&width=435&lines=Glad+to+meet+you!)">
+</h2>
+
 ## :mortar_board: I’m currently pursuing my B.Tech in Computer Science & Engineering in VIT, Vellore Campus
 ### 🌱 I’m currently learning Scientific Computing in Python
 ### 💬 Ask me about Games (I ❤️ playing Games)
