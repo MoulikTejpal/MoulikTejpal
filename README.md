@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Moulik%20Tejpal-blue)](https://www.linkedin.com/in/mouliktejpal)
 
-##:mortar_board: I’m currently pursuing my B.Tech in Computer Science & Engineering in VIT, Vellore Campus
+## :mortar_board: I’m currently pursuing my B.Tech in Computer Science & Engineering in VIT, Vellore Campus
 ### 🌱 I’m currently learning Scientific Computing in Python
 ### 💬 Ask me about Games (I ❤️ playing Games)
 ### 📫 Reach Out to Me On: [Linkedin](https://www.linkedin.com/in/mouliktejpal)
