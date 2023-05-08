@@ -28,4 +28,4 @@
 ## 🏆 My GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MoulikTejpal&count_private=true&theme=ocean-gradient&showicons=true)]()&nbsp;
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MoulikTejpal&langs_count=5&theme=ocean-gradient)]()
-<p> [![GitHub Streak]<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MoulikTejpal&theme=ocean-gradient" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MoulikTejpal&theme=ocean-gradient" /> </p>
