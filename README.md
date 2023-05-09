@@ -1,13 +1,12 @@
-<img src="https://komarev.com/ghpvc/?username=MoulikTejpal&label=Profile Views&color=blue&style=flat" alt=“mouliktejpal”/>  
+<img src="https://komarev.com/ghpvc/?username=MoulikTejpal&label=Profile Views&color=blue&style=flat" alt=“mouliktejpal”/> <span> <a href="https://www.linkedin.com/in/mouliktejpal"><img src="https://img.shields.io/badge/LinkedIn-Moulik%20Tejpal-blue"></a> </span>
+
 <h1 align="center"> Hey There! <img src=https://user-images.githubusercontent.com/98741486/180621020-83c6fe62-f8e4-41ad-bad0-87e1630e78a5.gif width="35px" height="35px">, I'm Moulik Tejpal</a></h1>
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Hubot+Sans&weight=600&size=30&pause=500&color=0F95E8&center=true&width=435&lines=Glad+to+meet+you!">
 </h2>
 <h3 align="center"> Student 💻 ||  Gamer 🎮 </h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Moulik%20Tejpal-blue)](https://www.linkedin.com/in/mouliktejpal)
-
-## :mortar_board: I’m currently pursuing my B.Tech in Computer Science & Engineering in VIT, Vellore
+### :mortar_board: I’m currently pursuing my B.Tech in Computer Science & Engineering in VIT, Vellore
 ### 🌱 I’m currently learning Scientific Computing in Python
 ### 💬 Ask me about Games (I ❤️ playing Games)
 
@@ -23,13 +22,13 @@ alt="moulik-tejpal" height="30" width="40" />
 </a>
 </p>
 
-### Things I program with: 
+## Tech Array
+
+### Languages I use: 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="26px"></span>&nbsp;
 <span><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width="30px"></span>&nbsp;
-
-### For Web Development, I use:
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
 <!--- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp; -->
