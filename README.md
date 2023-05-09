@@ -13,7 +13,7 @@
 ### 💬 Ask me about Games (I ❤️ playing Games)
 
 &nbsp;
-## Connect With Me 🌏
+## 🌏 Connect With Me 
 <p align="left>
 <a href="https://www.linkedin.com/in/mouliktejpal/" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
@@ -26,7 +26,7 @@ alt="moulik-tejpal" height="30" width="40" />
 </p>
 
 &nbsp;
-## Tech Array
+## 💻 Tech Array
 
 ### Languages I use: 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px"></span>&nbsp;
