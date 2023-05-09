@@ -1,5 +1,8 @@
 <img src="https://komarev.com/ghpvc/?username=MoulikTejpal&label=Profile Views&color=blue&style=flat" alt=“mouliktejpal”/>  
 <h1 align="center"> Hey There! <img src=https://user-images.githubusercontent.com/98741486/180621020-83c6fe62-f8e4-41ad-bad0-87e1630e78a5.gif width="35px" height="35px">, I'm Moulik Tejpal</a></h1>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hubot+Sans&weight=600&size=30&pause=500&color=0F95E8&center=true&width=435&lines=Glad+to+meet+you!">
+</h2>
 <h3 align="center"> Student 💻 ||  Gamer 🎮 </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Moulik%20Tejpal-blue)](https://www.linkedin.com/in/mouliktejpal)
