@@ -7,23 +7,21 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Moulik%20Tejpal-blue)](https://www.linkedin.com/in/mouliktejpal)
 
+## :mortar_board: I’m currently pursuing my B.Tech in Computer Science & Engineering in VIT, Vellore
+### 🌱 I’m currently learning Scientific Computing in Python
+### 💬 Ask me about Games (I ❤️ playing Games)
+
 ## Connect With Me 🌏
 <p align="left>
 <a href="https://www.linkedin.com/in/mouliktejpal/" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
 alt="moulik-tejpal" height="30" width="40" />
 </a>
-<a href="https://www.hackerrank.com/moulik_tejpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suteerth1" height="30" width="40" />
+<a href="https://www.hackerrank.com/moulik_tejpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="moulik_tejpal" height="30" width="40" />
 </a>
-<a href="https://leetcode.com/MoulikTejpal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamsuteerth" height="30" width="40" />
+<a href="https://leetcode.com/MoulikTejpal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="MoulikTejpal" height="30" width="40" />
 </a>
 </p>
-
-## :mortar_board: I’m currently pursuing my B.Tech in Computer Science & Engineering in VIT, Vellore
-### 🌱 I’m currently learning Scientific Computing in Python
-### 💬 Ask me about Games (I ❤️ playing Games)
-### 📫 Reach Out to Me On: [Linkedin](https://www.linkedin.com/in/mouliktejpal)
------------------------------
 
 ### Things I program with: 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px"></span>&nbsp;
