@@ -14,6 +14,7 @@
 
 &nbsp;
 ## 🌏 Connect With Me 
+
 <p align="left>
 <a href="https://www.linkedin.com/in/mouliktejpal/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
 alt="moulik-tejpal" height="30" width="40"/>
