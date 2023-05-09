@@ -1,4 +1,6 @@
-# Hey there!, I'm Moulik Tejpal 👋 <img src="https://komarev.com/ghpvc/?username=MoulikTejpal&label=Profile Views&color=blue&style=flat" alt=“mouliktejpal”/>  
+<img src="https://komarev.com/ghpvc/?username=MoulikTejpal&label=Profile Views&color=blue&style=flat" alt=“mouliktejpal”/>  
+<h1 align="center"> Hey There! <img src=https://user-images.githubusercontent.com/98741486/180621020-83c6fe62-f8e4-41ad-bad0-87e1630e78a5.gif width="35px" height="35px">, I'm Moulik Tejpal</a></h1>
+<h3 align="center"> Flutter App Developer 📱 || Competitive Coding 💻 || DSA ❤️ ||  Gamer 🎮 </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Moulik%20Tejpal-blue)](https://www.linkedin.com/in/mouliktejpal)
 
