@@ -1,4 +1,4 @@
-# Hiii!!!!, I'm Moulik Tejpal 👋 <img src="https://komarev.com/ghpvc/?username=MoulikTejpal&label=Profile Views&color=blue&style=flat" alt=“mouliktejpal”/>  
+# Hey there!, I'm Moulik Tejpal 👋 <img src="https://komarev.com/ghpvc/?username=MoulikTejpal&label=Profile Views&color=blue&style=flat" alt=“mouliktejpal”/>  
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Moulik%20Tejpal-blue)](https://www.linkedin.com/in/mouliktejpal)
 
