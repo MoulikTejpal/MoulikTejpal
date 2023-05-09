@@ -31,6 +31,6 @@
 
 
 ## 🏆 My GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MoulikTejpal&count_private=true&title_color=0d96e8&text_color=0d96e8&bg_color=DEG,69c1d0,0d96e8&showicons=true)]()&nbsp;
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MoulikTejpal&count_private=true&title_color=ffffff&text_color=ffffff&bg_color=DEG,69c1d0,0d96e8&showicons=true)]()&nbsp;
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MoulikTejpal&langs_count=5&theme=ocean-gradient)]()
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MoulikTejpal&theme=ocean-gradient" /> </p>
