@@ -22,7 +22,7 @@
 </a>
 <a href="https://www.hackerrank.com/moulik_tejpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="moulik_tejpal" height="30" width="40" />
 </a>
-<a href="https://leetcode.com/MoulikTejpal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="MoulikTejpal" height="30" width="40" />
+<a href="https://leetcode.com/MoulikTejpal/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="MoulikTejpal" height="30" />
 </a>
 </p>
 
